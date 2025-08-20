@@ -167,7 +167,7 @@
   
   /* Card Components */
   .project-card {
-    @apply group bg-background border border-border rounded-lg overflow-hidden;
+    @apply bg-background border border-border rounded-lg overflow-hidden;
     @apply hover:shadow-lg transition-all duration-300;
     @apply hover:-translate-y-1 hover:border-accent/20;
   }

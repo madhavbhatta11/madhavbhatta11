@@ -90,7 +90,7 @@ const Portfolio = () => {
   };
 
   const ProjectCard = ({ project }: { project: any }) => (
-    <div className="project-card">
+    <div className="project-card group">
       <div className="relative overflow-hidden">
         <div className="project-card-image bg-gradient-to-br from-gray-100 to-gray-200 flex items-center justify-center">
           <span className="text-gray-500 font-medium">Project Screenshot</span>
