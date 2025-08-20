@@ -1,3 +1,5 @@
+import profileAbout from '@/assets/profile-about.jpg';
+
 const About = () => {
   return (
     <section id="about" className="section-spacing bg-background">
@@ -7,11 +9,11 @@ const About = () => {
           <div className="order-2 lg:order-1 animate-slide-up">
             <div className="relative">
               <div className="aspect-square bg-muted rounded-lg overflow-hidden">
-                <div className="w-full h-full bg-gradient-to-br from-gray-200 to-gray-300 flex items-center justify-center">
-                  <span className="text-gray-500 text-lg font-medium">
-                    Your Portrait Photo
-                  </span>
-                </div>
+                <img 
+                  src={profileAbout} 
+                  alt="Madhav Bhatta - Computer Engineering Student"
+                  className="w-full h-full object-cover"
+                />
               </div>
               {/* Decorative Border */}
               <div className="absolute -inset-4 bg-gradient-to-br from-accent/20 to-tech-blue/20 rounded-lg -z-10" />

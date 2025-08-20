@@ -1,9 +1,10 @@
-import heroBackground from '@/assets/hero-background.jpg';
+import profileHero from '@/assets/profile-hero.jpg';
+
 const Hero = () => {
   return <section id="home" className="relative min-h-screen flex items-center justify-center overflow-hidden">
       {/* Background Image */}
       <div className="absolute inset-0 bg-cover bg-center bg-no-repeat" style={{
-      backgroundImage: `url(${heroBackground})`
+      backgroundImage: `url(${profileHero})`
     }}>
         <div className="absolute inset-0 bg-gradient-to-b from-black/50 via-black/30 to-black/60" />
       </div>

@@ -1,4 +1,11 @@
 import { ExternalLink, Github } from 'lucide-react';
+import ecommerceImg from '@/assets/project-ecommerce.jpg';
+import taskManagerImg from '@/assets/project-taskmanager.jpg';
+import stockPredictorImg from '@/assets/project-stockpredictor.jpg';
+import sentimentImg from '@/assets/project-sentiment.jpg';
+import cpuImg from '@/assets/project-cpu.jpg';
+import osImg from '@/assets/project-os.jpg';
+import reactUiImg from '@/assets/project-react-ui.jpg';
 
 const Portfolio = () => {
   const projects = {
@@ -6,21 +13,21 @@ const Portfolio = () => {
       {
         title: "E-Commerce Platform",
         description: "Full-stack e-commerce solution with React, Node.js, and MongoDB",
-        image: "placeholder",
+        image: ecommerceImg,
         github: "#",
         demo: "#"
       },
       {
         title: "Task Management App",
         description: "Real-time collaborative task manager with WebSocket integration",
-        image: "placeholder",
+        image: taskManagerImg,
         github: "#",
         demo: "#"
       },
       {
         title: "Portfolio Website",
         description: "Responsive portfolio site with modern design and animations",
-        image: "placeholder",
+        image: stockPredictorImg,
         github: "#",
         demo: "#"
       }
@@ -29,21 +36,21 @@ const Portfolio = () => {
       {
         title: "Stock Price Predictor",
         description: "Machine learning model for stock market prediction using LSTM",
-        image: "placeholder",
+        image: stockPredictorImg,
         github: "#",
         demo: "#"
       },
       {
         title: "Sentiment Analysis Tool",
         description: "NLP-based sentiment analyzer for social media data",
-        image: "placeholder",
+        image: sentimentImg,
         github: "#",
         demo: "#"
       },
       {
         title: "Image Classification",
         description: "CNN model for computer vision tasks with 95% accuracy",
-        image: "placeholder",
+        image: taskManagerImg,
         github: "#",
         demo: "#"
       }
@@ -52,21 +59,21 @@ const Portfolio = () => {
       {
         title: "CPU Design Project",
         description: "32-bit RISC processor design in Verilog with full pipeline",
-        image: "placeholder",
+        image: cpuImg,
         github: "#",
         demo: "#"
       },
       {
         title: "Operating System",
         description: "Custom OS kernel with memory management and scheduling",
-        image: "placeholder",
+        image: osImg,
         github: "#",
         demo: "#"
       },
       {
         title: "Network Protocol",
         description: "Implementation of TCP/IP stack from scratch in C",
-        image: "placeholder",
+        image: ecommerceImg,
         github: "#",
         demo: "#"
       }
@@ -75,14 +82,14 @@ const Portfolio = () => {
       {
         title: "React UI Library",
         description: "Contribution to popular React component library",
-        image: "placeholder",
+        image: reactUiImg,
         github: "#",
         demo: "#"
       },
       {
         title: "Algorithm Visualizer",
         description: "Interactive tool for visualizing sorting and graph algorithms",
-        image: "placeholder",
+        image: taskManagerImg,
         github: "#",
         demo: "#"
       }
@@ -92,9 +99,11 @@ const Portfolio = () => {
   const ProjectCard = ({ project }: { project: any }) => (
     <div className="project-card group">
       <div className="relative overflow-hidden">
-        <div className="project-card-image bg-gradient-to-br from-gray-100 to-gray-200 flex items-center justify-center">
-          <span className="text-gray-500 font-medium">Project Screenshot</span>
-        </div>
+        <img 
+          src={project.image} 
+          alt={project.title}
+          className="project-card-image w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
+        />
       </div>
       <div className="project-card-content">
         <h3 className="heading-project mb-2">{project.title}</h3>
