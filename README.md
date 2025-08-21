@@ -122,3 +122,15 @@ If you’d like to reach me directly, feel free to open an issue in this repo or
 ## ⚙️ Development Guide 
 ## MADHAV BHATTA
 
+## 🎮 Play Live Snake
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Animated Snake" width="300"/>
+</p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=madhavbhatta11&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://c.tenor.com/0XkY-uFZ9fYAAAAC/typing-computer.gif" width="200"/>
+</p>
+
+
+
