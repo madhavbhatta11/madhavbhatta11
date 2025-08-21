@@ -49,6 +49,16 @@ Here are some  sample snaps :
 
 When I’m not coding, I love **exploring new tech ideas**, sketching creative designs,  
 and sometimes diving deep into **astrology & palmistry** 🔮 (a unique mix of logic + intuition!).  
+## 🎮 Fun Section: Snake Eating My Name
+
+Check out this little fun animation where a snake “eats” the letters of my name, **Madhav**! 🐍
+
+<p align="center">
+  <img src="snake_name.gif" alt="Snake Eating My Name" width="500"/>
+</p>
+
+> This is just a fun way to show some creativity on my profile. You can even try making it yourself with Python!
+
 
 ## 📬 Contact Me  
 
@@ -106,6 +116,8 @@ and sometimes diving deep into **astrology & palmistry** 🔮 (a unique mix of l
 If you’d like to reach me directly, feel free to open an issue in this repo or send me a message through my contact form on the portfolio site.  
 
 ---
+
+
 
 ## ⚙️ Development Guide 
 ## MADHAV BHATTA
