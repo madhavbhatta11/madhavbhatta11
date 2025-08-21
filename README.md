@@ -9,13 +9,14 @@ This portfolio showcases my journey, projects, and skills as I continue to grow 
 
  [SOMTHING MORE ABOUT ME](https://madhavbhatta11-69.lovable.app/)
 
----
+
 
 ## 🛠️ Project Info
 
-This project is built using:
+The project is built using:
 
 - ⚡ [Vite](https://vitejs.dev/)  - ⚛️ [React](https://react.dev/)  - 📘 [TypeScript](https://www.typescriptlang.org/)  - 🎨 [Tailwind CSS](https://tailwindcss.com/)  - 🧩 [shadcn-ui](https://ui.shadcn.com/)  
+---
 
 ---
 
