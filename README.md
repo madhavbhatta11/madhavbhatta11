@@ -49,7 +49,6 @@ Here are some  sample snaps :
 
 When I’m not coding, I love **exploring new tech ideas**, sketching creative designs,  
 and sometimes diving deep into **astrology & palmistry** 🔮 (a unique mix of logic + intuition!).  
-## 🎮 Fun Section: Snake Eating My Name
 
 
 
