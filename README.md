@@ -15,20 +15,13 @@ This portfolio showcases my journey, projects, and skills as I continue to grow 
 
 This project is built using:
 
-- ⚡ [Vite](https://vitejs.dev/)  
-- ⚛️ [React](https://react.dev/)  
-- 📘 [TypeScript](https://www.typescriptlang.org/)  
-- 🎨 [Tailwind CSS](https://tailwindcss.com/)  
-- 🧩 [shadcn-ui](https://ui.shadcn.com/)  
+- ⚡ [Vite](https://vitejs.dev/)  - ⚛️ [React](https://react.dev/)  - 📘 [TypeScript](https://www.typescriptlang.org/)  - 🎨 [Tailwind CSS](https://tailwindcss.com/)  - 🧩 [shadcn-ui](https://ui.shadcn.com/)  
 
 ---
 
-## 📸 
+## 📸  📸 
 
-Here are some  sample snapshots :  
-
-## 📸   
-
+Here are some  sample snaps :  
 
 <p align="center">
   <img src="src/assets/IMG_20250502_114235-01.jpeg" alt="img 1" width="200" height="200"/>
