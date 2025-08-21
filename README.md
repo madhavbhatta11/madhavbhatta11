@@ -29,7 +29,7 @@ Here are some snapshots of my work (I’ll update these with real project screen
 
 | | | |
 |---|---|---|
-| ![Project 1](IMAGE_LINK_1) | ![Project 2](IMAGE_LINK_2) | ![Project 3](IMAGE_LINK_3) |
+| ![Project 1](IMG_20250502_114235-01.jpeg) | ![Project 2](IMAGE_LINK_2) | ![Project 3](IMAGE_LINK_3) |
 | ![Project 4](IMAGE_LINK_4) | ![Project 5](IMAGE_LINK_5) | ![Project 6](IMAGE_LINK_6) |
 | ![Project 7](IMAGE_LINK_7) | ![Project 8](IMAGE_LINK_8) |   |
 
