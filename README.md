@@ -7,7 +7,7 @@ This portfolio showcases my journey, projects, and skills as I continue to grow 
 
 ## 🌐 Live Portfolio
 
-🔗 [View My Portfolio](https://lovable.dev/projects/2acae668-2f2a-4712-b909-047220b0c4cd)
+🔗 [View My Portfolio](https://madhavbhatta11-69.lovable.app/)
 
 ---
 
@@ -33,7 +33,6 @@ Here are some snapshots of my work (I’ll update these with real project screen
 | ![Project 4](IMAGE_LINK_4) | ![Project 5](IMAGE_LINK_5) | ![Project 6](IMAGE_LINK_6) |
 | ![Project 7](IMAGE_LINK_7) | ![Project 8](IMAGE_LINK_8) |   |
 
-*(Replace `IMAGE_LINK_X` with your own image URLs)*  
 
 ---
 
@@ -42,10 +41,9 @@ Here are some snapshots of my work (I’ll update these with real project screen
 💌 Let’s connect and collaborate!  
 
 - 🌍 Portfolio: [Madhav Bhatta](https://lovable.dev/projects/2acae668-2f2a-4712-b909-047220b0c4cd)  
-- 📧 Email: **yourname@email.com**  
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/)  
-- 🐙 GitHub: [GitHub Profile](https://github.com/)  
-- 📷 Instagram: [Instagram Profile](https://www.instagram.com/)  
+- 📧 Email: **madhavbhatta11@gmail.com**  
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/madhavbhatta11@)   
+- 📷 Instagram: [Instagram Profile](https://www.instagram.com/madhav__bhatta/)  
 
 ---
 
@@ -57,23 +55,3 @@ If you’d like to reach me directly, feel free to open an issue in this repo or
 
 ## ⚙️ Development Guide  
 
-You can edit this project in two ways:  
-
-### 1. 🖥️ Online with Lovable AI  
-Just open the [Project](https://lovable.dev/projects/2acae668-2f2a-4712-b909-047220b0c4cd) and start prompting!  
-Changes made via Lovable will be committed automatically to this repo.  
-
-### 2. 💻 Locally with Your IDE  
-
-```sh
-# Step 1: Clone the repository using the project's Git URL
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies
-npm i
-
-# Step 4: Start the development server
-npm run dev
