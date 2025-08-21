@@ -40,7 +40,7 @@ Here are some snapshots of my work (I’ll update these with real project screen
 
 💌 Let’s connect and collaborate!  
 
-- 🌍 Portfolio: [Madhav Bhatta](https://lovable.dev/projects/2acae668-2f2a-4712-b909-047220b0c4cd)  
+- 🌍 Portfolio: [Madhav Bhatta](https://madhavbhatta11-69.lovable.app/)  
 - 📧 Email: **madhavbhatta11@gmail.com**  
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/madhavbhatta11@)   
 - 📷 Instagram: [Instagram Profile](https://www.instagram.com/madhav__bhatta/)  
