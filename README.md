@@ -5,9 +5,9 @@ This portfolio showcases my journey, projects, and skills as I continue to grow 
 
 ---
 
-## 🌐 Live Portfolio
+## 🌐 MY Portfolio
 
-🔗 [View My Portfolio](https://madhavbhatta11-69.lovable.app/)
+ [SOMTHING MORE ABOUT ME](https://madhavbhatta11-69.lovable.app/)
 
 ---
 
@@ -53,5 +53,6 @@ If you’d like to reach me directly, feel free to open an issue in this repo or
 
 ---
 
-## ⚙️ Development Guide  
+## ⚙️ Development Guide 
+## MADHAV BHATTA
 
